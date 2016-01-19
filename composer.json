@@ -1,0 +1,10 @@
+{
+    "name": "matthiaschlechowitz/coding-interview",
+    "authors": [
+        {
+            "name": "Matthias Chlechowitz",
+            "email": "matthias.chlechowitz@m-cube.de"
+        }
+    ],
+    "require": {}
+}
