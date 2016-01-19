@@ -6,5 +6,8 @@
             "email": "matthias.chlechowitz@m-cube.de"
         }
     ],
+    "autoload": {
+        "psr-4": {"Cr\\": "src/Cr"}
+    },
     "require": {}
 }

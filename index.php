@@ -1,4 +1,7 @@
 <?php
 require_once 'vendor/autoload.php';
 
-echo "Hallo Welt";
+use Cr\Command\TestCommand;
+
+$c = new TestCommand();
+$c->sayHello();
